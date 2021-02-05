@@ -129,7 +129,7 @@ def main():
     print(colors('\n'.join([
      '[G1]Assalamualaikum wr.. wb..','[CC]'
      '[G1]Wellcome to script MRALF CHANNEL','[CC]'
-     '[G1]Ubah Kuota imclass TSEL','[CC]'
+     '[G1]Ubah Kuota imclass Indosat','[CC]'
   
    'CEKIDOTTT.... ','[CC]'
     ])))    
